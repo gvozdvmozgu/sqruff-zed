@@ -10,7 +10,7 @@ Open the Zed extensions page, search for `sqruff`, and install the extension.
 
 By default, Zed uses Prettier as the SQL formatter.
 
-To fix this, use sqruff’s LSP formatter by adding to your `settings.json`:, use sqruff’s LSP formatter by adding to your `settings.json`:
+To fix this, use sqruff’s LSP formatter by adding to your `settings.json`:
 
 ```json
   "languages": {
