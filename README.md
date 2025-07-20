@@ -1,6 +1,6 @@
 # A sqruff extension for Zed
 
-This extension provides language support for [sqruff].
+This extension provides language support for sqruff.
 
 ## Installation
 
